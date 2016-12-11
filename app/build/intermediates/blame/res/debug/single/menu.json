@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_activity_bar.xml",
+        "source": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\menu\\main_activity_bar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\encode.xml",
+        "source": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\menu\\encode.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\history.xml",
+        "source": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\menu\\history.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\res\\merged\\debug\\menu\\capture.xml",
+        "source": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\menu\\capture.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Ecode">E-CODE</string>
+    <string name="action_en">EN</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_tr">TR</string>
+    <string name="app_name">ECO</string>
+    <string name="go_camera">Camera</string>
+    <string name="home_page">Home Page</string>
+    <string name="search_diseases">Search Diseases</string>
+    <string name="search_ecodes">Search E-codes</string>
+    <string name="soup">ready soups are consist of too much additive so it leads different kind of diseases.
+ People have to stay away from ready soups especially kids. </string>
+</resources>

@@ -1,0 +1,199 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 897,
+                        "endColumn": 37,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 40,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1025,
+                        "endColumn": 37,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 52,
+                    "endOffset": 185
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 936,
+                        "endColumn": 49,
+                        "endOffset": 984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 190,
+                    "endColumn": 40,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 987,
+                        "endColumn": 37,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 40,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 661,
+                        "endColumn": 37,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 44,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 699,
+                        "endColumn": 41,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 47,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 852,
+                        "endColumn": 44,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 59,
+                    "endOffset": 420
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 795,
+                        "endColumn": 56,
+                        "endOffset": 850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 425,
+                    "endColumn": 56,
+                    "endOffset": 477
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 741,
+                        "endColumn": 53,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 482,
+                    "endLine": 12,
+                    "endColumn": 69,
+                    "endOffset": 656
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1066,
+                        "endLine": 33,
+                        "endColumn": 69,
+                        "endOffset": 1241
+                    }
+                }
+            }
+        ]
+    }
+]

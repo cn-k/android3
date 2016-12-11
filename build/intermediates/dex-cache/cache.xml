@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-6.0.4_24eba929d71919ffbdb406a6ba7ad0888d53e4fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5a8b4ef061023e5455f2eeb9ac3828be7bb13be">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\instant-run_71f1b99e91fe7b9c0e0d76375393fae130dac2e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_75a40e923969e0f7421512852de476452f980b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_75a40e923969e0f7421512852de476452f980b06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_f6f65e42f372f0f86bbd9aee35d4eb1d7cad368b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af945867aae1504afdc951435d1a5208b8fd2cf3">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_27972f6afd704b8f011ed3c1ccd461f7b3c69896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_f6f65e42f372f0f86bbd9aee35d4eb1d7cad368b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_81698f886362bb20899ecd40248596a3511c43c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_81698f886362bb20899ecd40248596a3511c43c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27377d2be96cab8211f228b424f221f34a0fa5bc">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.rmtheis-tess-two-6.0.4_24eba929d71919ffbdb406a6ba7ad0888d53e4fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\cenk.akdeniz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_ed61b262713fdf23bfaff8a85caf67cb8f39d38a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_9ac0852d4574c43a213498bb48641e2e405d0eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8dc1c2e69d24be6dbe73fa4161dd5642a409bc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8dc1c2e69d24be6dbe73fa4161dd5642a409bc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_9ac0852d4574c43a213498bb48641e2e405d0eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Users\cenk.akdeniz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\AndroidStudioProjects\ocr\android3\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_ed61b262713fdf23bfaff8a85caf67cb8f39d38a.jar" />
+    </item>
+
+</items>

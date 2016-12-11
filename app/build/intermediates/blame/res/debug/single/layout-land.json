@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\encode.xml",
+        "source": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\layout-land\\encode.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\share.xml",
+        "source": "D:\\AndroidStudioProjects\\ocr\\android3\\app\\src\\main\\res\\layout-land\\share.xml"
+    }
+]
